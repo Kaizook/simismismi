@@ -1,0 +1,106 @@
+{
+  "ingredientes": {
+    "massas": [
+      {
+        "id": 1,
+        "tipo": "Massa salgada fina"
+      },
+      {
+        "id": 2,
+        "tipo": "Massa salgada grossa"
+      },
+      {
+        "id": 3,
+        "tipo": "Massa doce fina"
+      },
+      {
+        "id": 4,
+        "tipo": "Massa doce grossa"
+      }
+    ],
+    "sabores": [
+      {
+        "id": 1,
+        "tipo": "Calabresa"
+      },
+      {
+        "id": 2,
+        "tipo": "Frango com Catupiry"
+      },
+      {
+        "id": 3,
+        "tipo": "Quatro queijos"
+      },
+      {
+        "id": 4,
+        "tipo": "Mussarela"
+      },
+      {
+        "id": 5,
+        "tipo": "Xpecial"
+      }
+    ],
+    "tamanhos": [
+      {
+        "id": 1,
+        "tipo": "Grande(30cm)"
+      },
+      {
+        "id": 2,
+        "tipo": "Gigante(40cm)"
+      },
+      {
+        "id": 3,
+        "tipo": "Espaço(50cm)"
+      }
+    ],
+    "extras": [
+      {
+        "id": 1,
+        "tipo": "Dobro de recheio"
+      },
+      {
+        "id": 2,
+        "tipo": "Borda de cheddar"
+      },
+      {
+        "id": 3,
+        "tipo": "Borda de catupiry"
+      },
+      {
+        "id": 4,
+        "tipo": "Borda quatro queijos"
+      },
+      {
+        "id": 4,
+        "tipo": "Borda de nutella"
+      },
+      {
+        "id": 4,
+        "tipo": "Borda de ninho"
+      },
+      {
+        "id": 5,
+        "tipo": "Borda de hot dog"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Em produção"
+    },
+    {
+      "id": 3,
+      "tipo": "Finalizado"
+    }
+  ],
+  "pizzas": [
+    
+  ]
+}
+  
